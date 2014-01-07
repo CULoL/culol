@@ -1,0 +1,36 @@
+/*
+Clemson League of Legends Club
+Main Website CSS
+Last updated: 10/02/2013 by Shawn Stickle
+*/
+
+/*	PAGE ELEMENTS	*/
+#content{
+	width: 95%; margin: 0 auto; background-color: #F0F0F0; border-radius: 10px; padding: 15px; margin-top: 2em;
+}
+
+a:link {
+	color: #EA6A20;
+}
+
+a:visited {
+	color: #EA6A20;
+}
+
+h1 {
+	color: #EA6A20;
+}
+
+h2 {
+	color: #EA6A20;
+}
+
+body{
+	background-color: #3A4958;
+}
+
+/*	FOOTER ELEMENTS	*/
+#about {
+	color: #FFFFFF; margin-top: 25px;
+	padding: 5px; text-align: right; overflow: hidden; font-size: 0.75em; font-style: normal; background-color: #EA6A20;
+}
