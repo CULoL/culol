@@ -15,6 +15,7 @@
 	
     <div class="col-lg-6">
 		<h2>General information</h2>
+		<p>The schedule can be found on our <a href="page.php?page=calender.php">Calender</a> page.</p>
         <h4>Season Timeline (Tentative)</h4>
 		<p>Season Stage: Monday, January 13th - Sunday, March 31th (12 weeks)
 			<br/>Final Tournament: Monday, April 7th - Sunday, April 27th (3 weeks)</p>
@@ -24,23 +25,39 @@
 </div>
 
 <h2>The teams:</h2>
-<div class="row">
-	<h4>The Bearded Staggs [tBS]</h4>
-	<div class="col-md-3">
-		<img src="img/cs/The Bearded Staggs.png"/>
-	</div>
-	<div class="col-md-9">
-		<h5>Roster:</h5>
-		<p>Xxehanort, Noxidile, GI Pritchard, GomerUSMC, Infernalis</p>
-	</div>
-</div>
-<div class="row">
-	<h4>Frank the Piltovers [FUPilt]</h4>
-	<div class="col-md-3">
-		<img src="img/cs/fupilt.png"/>
-	</div>
-	<div class="col-md-9">
-		<h5>Roster:</h5>
-		<p>AleskiMaciej, lonelybutter, SovietShark,	PetTroop, WashableCoyote</p>
-	</div>
-</div>
+<table class="table table-striped">
+	<thead>  
+		<tr>  
+			<th>Team Logo</th>  
+            <th>Team Name</th>  
+            <th>Top Laner</th>
+			<th>Mid Laner</th>
+			<th>Jungler</th>
+			<th>Marksman</th>
+			<th>Support</th>
+            <th>W/L</th>
+		</tr>  
+    </thead>  
+    <tbody>  
+        <tr>  
+			<td><img src="img/cs/The Bearded Staggs.png" style="max-height: 200px;"/></td>  
+            <td><h3>The Bearded Staggs [tBS]</h3></td>  
+			<td><a href="http://www.lolking.net/summoner/na/23081317">Noxidile</a></td>
+			<td><a href="http://www.lolking.net/summoner/na/20747613">Infernalis</a></td>
+			<td><a href="http://www.lolking.net/summoner/na/21237898">GI Pritchard</a></td>
+			<td><a href="http://www.lolking.net/summoner/na/32157787">Xxehanort</a></td>
+			<td><a href="http://www.lolking.net/summoner/na/42026881">GomerUSMC</a></td>
+            <td>(0-0)</td>  
+        </tr>
+        <tr style="background-color: #D0D0D0;">  
+			<td><img src="img/cs/fupilt.png" style="max-height: 200px;"/></td>  
+            <td><h3>Frank the Piltovers [fupilt]</h3></td>  
+            <td><a href="http://www.lolking.net/summoner/na/31533356">WashableCoyote</a></td>
+			<td><a href="http://www.lolking.net/summoner/na/22217505">AleskiMaciej</a></td>
+			<td><a href="http://www.lolking.net/summoner/na/19813093">Pet Troop</a></td>
+			<td><a href="http://www.lolking.net/summoner/na/20749862">lonelybutter</a></td>
+			<td><a href="http://www.lolking.net/summoner/na/21212059">SovietShark</a></td>  
+            <td>(0-0)</td>  
+        </tr>		
+	</tbody>
+</table>
