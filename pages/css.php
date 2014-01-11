@@ -8,7 +8,7 @@
     <div class="col-lg-6">
 		<h2>Structure</h2>
         <h4>Season Stage</h4>
-		<p>A stage with games spread out over 12 weeks, where all 11 teams play each other twice.
+		<p>A stage with games spread out over 12 weeks, where all 10 teams play each other twice.
 		<h4>Final Tournament</h4>
 		<p>This is a standard bracket tournament, best of three with the finals being best of five, exactly the way we saw the Season 3 finals. This tournament will be held over a three week period, mostly on weekends, which is subject to change due to the approaching finals week.</p>
     </div>
@@ -27,7 +27,8 @@
 <h2>The teams:</h2>
 <table class="table table-striped">
 	<thead>  
-		<tr>  
+		<tr>
+			<th>Place</th>
 			<th>Team Logo</th>  
             <th>Team Name</th>  
             <th>Top Laner</th>
@@ -39,7 +40,8 @@
 		</tr>  
     </thead>  
     <tbody>  
-        <tr>  
+        <tr> 
+			<td><h1>1</h1></td>
 			<td><img src="img/cs/The Bearded Staggs.png" style="max-height: 100px;"/></td>  
             <td><h3>The Bearded Staggs [tBS]</h3></td>  
 			<td><a href="http://www.lolking.net/summoner/na/23081317">Noxidile</a></td>
@@ -49,7 +51,8 @@
 			<td><a href="http://www.lolking.net/summoner/na/42026881">GomerUSMC</a></td>
             <td>(0-0)</td>  
         </tr>
-        <tr>  
+        <tr>   
+			<td><h1>1</h1></td>
 			<td><img src="img/cs/fupiltb.png" style="max-height: 100px;"/></td>  
             <td><h3>Frank the Piltovers [fupilt]</h3></td>  
             <td><a href="http://www.lolking.net/summoner/na/31533356">WashableCoyote</a></td>
@@ -59,7 +62,8 @@
 			<td><a href="http://www.lolking.net/summoner/na/21212059">SovietShark</a></td>  
             <td>(0-0)</td>  
         </tr>	
-        <tr>  
+        <tr>   
+			<td><h1>1</h1></td>
 			<td><img src="img/cs/culol.png" style="max-height: 100px;"/></td>  
             <td><h3>hybrix</h3><p><i>Positions not finalized</i></p></td>  
 			<td><a href="http://www.lolking.net/summoner/na/25391940">Beatdylan</a></td>
@@ -69,7 +73,8 @@
 			<td><a href="http://www.lolking.net/summoner/na/21183965">snapdragonz</a></td>
             <td>(0-0)</td>  
         </tr>		
-        <tr>  
+        <tr>   
+			<td><h1>1</h1></td>
 			<td><img src="img/cs/LS.png" style="max-height: 100px;"/></td>  
             <td><h3>LOLI SMASHER [LS]</h3></td>  
 			<td><a href="http://www.lolking.net/summoner/na/31632441">LGE DABOMB</a></td>
@@ -79,7 +84,8 @@
 			<td><a href="http://www.lolking.net/summoner/na/27344011">sighted2011</a></td>
             <td>(0-0)</td>  
         </tr>
-        <tr>  
+        <tr>   
+			<td><h1>1</h1></td>
 			<td><img src="img/cs/NM.png" style="max-height: 100px;"/></td>  
             <td><h3>New Meta [NM]</h3><p><i>Not following standard Meta positions</i></p></td>  
 			<td><a href="http://www.lolking.net/summoner/na/25408538">Dont taze me sis</a></td>
@@ -89,7 +95,8 @@
 			<td><a href="http://www.lolking.net/summoner/na/19966328">CaptainBanHammer</a></td>
             <td>(0-0)</td>  
         </tr>
-        <tr>  
+        <tr>   
+			<td><h1>1</h1></td>
 			<td><img src="img/cs/sealg.png" style="max-height: 100px;"/></td>  
             <td><h3>SeaLG</h3><p><i>Positions not finalized</i></p></td>  
 			<td><a href="http://www.lolking.net/summoner/na/24189959">Sir Westopher</a></td>
@@ -99,9 +106,10 @@
 			<td><a href="http://www.lolking.net/summoner/na/26732365">Proseidon</a></td>
             <td>(0-0)</td>  
         </tr>			
-        <tr>  
+        <tr>   
+			<td><h1>1</h1></td>
 			<td><img src="img/cs/SO.png" style="max-height: 100px;"/></td>  
-            <td><h3>Sicilian Offense</h3></td>  
+            <td><h3>Sicilian Offense [SO]</h3></td>  
 			<td><a href="http://www.lolking.net/summoner/na/40038802">fearmaster93</a></td>
 			<td><a href="http://www.lolking.net/summoner/na/20821868">drkarorkian</a></td>
 			<td><a href="http://www.lolking.net/summoner/na/40499558">stickx24</a></td>
@@ -109,7 +117,8 @@
 			<td><a href="http://www.lolking.net/summoner/na/25201804">dr3ad3r</a></td>
             <td>(0-0)</td>  
         </tr>
-        <tr>  
+        <tr>   
+			<td><h1>1</h1></td>
 			<td><img src="img/cs/TRU.png" style="max-height: 100px;"/></td>  
             <td><h3>Suk R Us [SRU]</h3></td>  
 			<td><a href="http://www.lolking.net/summoner/na/19795477">Erilur</a></td>
@@ -119,9 +128,10 @@
 			<td><a href="http://www.lolking.net/summoner/na/25024719">theGProphet</a></td>
             <td>(0-0)</td>  
         </tr>
-        <tr> 
+        <tr>  
+			<td><h1>1</h1></td>
 			<td><img src="img/cs/TWD.jpg" style="max-height: 100px;"/></td>  
-            <td><h3>Texting While Draven</h3></td>  
+            <td><h3>Texting While Draven [TWD]</h3></td>  
 			<td><a href="http://www.lolking.net/summoner/na/37909089">phantomcash</a></td>
 			<td><a href="http://www.lolking.net/summoner/na/20760518">CowInAPie</a></td>
 			<td><a href="http://www.lolking.net/summoner/na/19055924">Thunderhawk1989</a></br><p><i>Subject to change</i></p></td>
@@ -129,9 +139,10 @@
 			<td><a href="http://www.lolking.net/summoner/na/21550724">Thutmose I</a></td>
             <td>(0-0)</td>  
         </tr>
-		<tr>  
+		<tr>   
+			<td><h1>1</h1></td>
 			<td><img src="img/cs/VS.png" style="max-height: 100px;"/></td>  
-            <td><h3>Victorious Secret</h3><p><i>Positions not finalized</i></p></td>  
+            <td><h3>Victorious Secret [VS]</h3><p><i>Positions not finalized</i></p></td>  
 			<td><a href="http://www.lolking.net/summoner/na/36513560">brossman94</a></td>
 			<td><a href="http://www.lolking.net/summoner/na/25533775">thepilgrimreaper</a></td>
 			<td><a href="http://www.lolking.net/summoner/na/21128984">mikehawkmikehawk</a></td>
