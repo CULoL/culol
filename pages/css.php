@@ -98,13 +98,13 @@
 			</tr>
 			<tr>   
 				<td><h1>1</h1></td>
-				<td><img src="img/cs/sealg.png" style="max-height: 100px;"/></td>  
-				<td><h3>SeaLG</h3><p><i>Positions not finalized</i></p></td>  
-				<td><a href="http://www.lolking.net/summoner/na/24189959">Sir Westopher</a></td>
-				<td><a href="http://www.lolking.net/summoner/na/23372474">iPhone4</a></td>
-				<td><a href="http://www.lolking.net/summoner/na/23558994">Camster</a></td>
-				<td><a href="http://www.lolking.net/summoner/na/23554379">Pray Im AFK</a></td>
+				<td><img src="img/cs/SeaLG.jpg" style="max-height: 100px;"/></td>  
+				<td><h3>SeaLG</h3></td>  
 				<td><a href="http://www.lolking.net/summoner/na/26732365">Proseidon</a></td>
+				<td><a href="http://www.lolking.net/summoner/na/23554379">Pray Im AFK</a></td>
+				<td><a href="http://www.lolking.net/summoner/na/23558994">Camster</a></td>
+				<td><a href="http://www.lolking.net/summoner/na/23372474">iPhone4</a></td>
+				<td><a href="http://www.lolking.net/summoner/na/24189959">Sir Westopher</a></td>
 				<td>(0-0)</td>  
 			</tr>			
 			<tr>   
