@@ -25,6 +25,8 @@
 </div>
 
 <h2>The teams:</h2>
+<h4>Last Update: Week 1 Day 3</h4>
+<h6>2014-01-15 @ 11:50PM</h6>
 <div class="table-responsive">
 	<table class="table table-striped">
 		<thead>  
@@ -70,34 +72,23 @@
 				<td><a href="http://www.lolking.net/summoner/na/19795477">Erilur</a></br>KDA: 4.67</td>
 				<td><a href="http://www.lolking.net/summoner/na/20413044">Blayer</a></br>KDA: 4.60</td>
 				<td><a href="http://www.lolking.net/summoner/na/20167511">S Saiyan Pikachu</a></br>KDA: 5.25</td>
-				<td><a href="http://www.lolking.net/summoner/na/23411898">Bowserrr</a></br>KDA: 4.20</td>
+				<td><a href="http://www.lolking.net/summoner/na/23411898">Draven Draven</a></br>KDA: 4.20</td>
 				<td><a href="http://www.lolking.net/summoner/na/25024719">theGProphet</a></br>KDA: 6.50</td>
 				<td>(1-0)</td>  
 			</tr>			
 			<tr>   
-				<td><h1>2</h1></td>
+				<td><h1>1</h1></td>
 				<td><img src="img/cs/SeaLG.jpg" style="max-height: 100px;"/></td>  
 				<td><h3>SeaLG</h3></td>  
-				<td><a href="http://www.lolking.net/summoner/na/26732365">Proseidon</a></td>
-				<td><a href="http://www.lolking.net/summoner/na/23554379">Pray Im AFK</a></td>
-				<td><a href="http://www.lolking.net/summoner/na/23558994">Camster</a></td>
-				<td><a href="http://www.lolking.net/summoner/na/23372474">iPhone4</a></td>
+				<td><a href="http://www.lolking.net/summoner/na/26732365">Proseidon</a></br>KDA: 3.00</td>
+				<td><a href="http://www.lolking.net/summoner/na/23554379">Pray Im AFK</a></br>KDA: 9.50</td>
+				<td><a href="http://www.lolking.net/summoner/na/23558994">Camster</a></br>KDA: 23.00</br><i>No deaths</i></td>
+				<td><a href="http://www.lolking.net/summoner/na/23372474">iPhone4</a></br>KDA: 5.33</td>
 				<td><a href="http://www.lolking.net/summoner/na/24189959">Sir Westopher</a></td>
-				<td>(0-0)</td>  
-			</tr>			
-			<tr>  
-				<td><h1>2</h1></td>
-				<td><img src="img/cs/TWD.jpg" style="max-height: 100px;"/></td>  
-				<td><h3>Texting While Draven [TWD]</h3></td>  
-				<td><a href="http://www.lolking.net/summoner/na/37909089">phantomcash</a></td>
-				<td><a href="http://www.lolking.net/summoner/na/20760518">CowInAPie</a></td>
-				<td><a href="http://www.lolking.net/summoner/na/19055924">Thunderhawk1989</a></br><p><i>Subject to change</i></p></td>
-				<td><a href="http://www.lolking.net/summoner/na/19039926">madman258</a></td>
-				<td><a href="http://www.lolking.net/summoner/na/21550724">Thutmose I</a></td>
-				<td>(0-0)</td>  
-			</tr>
+				<td>(1-0)</td>  
+			</tr>	
 			<tr>   
-				<td><h1>3</h1></td>
+				<td><h1>2</h1></td>
 				<td><img src="img/cs/SO.png" style="max-height: 100px;"/></td>  
 				<td><h3>Sicilian Offense [SO]</h3></td>  
 				<td><a href="http://www.lolking.net/summoner/na/40038802">fearmaster93</a></br>KDA: 2.10</td>
@@ -106,17 +97,17 @@
 				<td><a href="http://www.lolking.net/summoner/na/25201804">dr3ad3r</a></br>KDA: 3.00</td>
 				<td><a href="http://www.lolking.net/summoner/na/21256691">reviize</a></br>KDA: 2.57</td>
 				<td>(1-1)</td>  
-			</tr>
-			<tr>   
-				<td><h1>4</h1></td>
-				<td><img src="img/cs/NM.png" style="max-height: 100px;"/></td>  
-				<td><h3>New Meta [NM]</h3><p><i>Not following standard Meta positions</i></p></td>  
-				<td><a href="http://www.lolking.net/summoner/na/19966328">CaptainBanHammer</a></br>KDA: 1.80</td>
-				<td><a href="http://www.lolking.net/summoner/na/29481736">tozzid</a></br>KDA: 1.67</td>
-				<td><a href="http://www.lolking.net/summoner/na/40600313">Trustmeengineer</a></br>KDA: 0.82</td>
-				<td><a href="http://www.lolking.net/summoner/na/25408538">Dont taze me sis</a></br>KDA: 2.00</td>
-				<td><a href="http://www.lolking.net/summoner/na/33320877">Mcbadfish</a></br>KDA: 0.67</td>
-				<td>(0-1)</td>  
+			</tr>			
+			<tr>  
+				<td><h1>3</h1></td>
+				<td><img src="img/cs/TWD.jpg" style="max-height: 100px;"/></td>  
+				<td><h3>Texting While Draven [TWD]</h3></td>  
+				<td><a href="http://www.lolking.net/summoner/na/37909089">phantomcash</a></td>
+				<td><a href="http://www.lolking.net/summoner/na/20760518">CowInAPie</a></td>
+				<td><a href="http://www.lolking.net/summoner/na/19055924">Thunderhawk1989</a></br><p><i>Subject to change</i></p></td>
+				<td><a href="http://www.lolking.net/summoner/na/19039926">madman258</a></td>
+				<td><a href="http://www.lolking.net/summoner/na/21550724">Thutmose I</a></td>
+				<td>(0-0)</td>  
 			</tr>
 			<tr> 
 				<td><h1>4</h1></td>
@@ -139,6 +130,17 @@
 				<td><a href="http://www.lolking.net/summoner/na/40952157">Quanday3000</a></a></br>KDA: 1.00</td>
 				<td><a href="http://www.lolking.net/summoner/na/27344011">sighted2011</a></a></br>KDA: 3.00</td>
 				<td>(0-1)</td>  
+			</tr>
+			<tr>   
+				<td><h1>5</h1></td>
+				<td><img src="img/cs/NM.png" style="max-height: 100px;"/></td>  
+				<td><h3>New Meta [NM]</h3><p><i>Not following standard Meta positions</i></p></td>  
+				<td><a href="http://www.lolking.net/summoner/na/19966328">CaptainBanHammer</a></br>KDA: 1.00</td>
+				<td><a href="http://www.lolking.net/summoner/na/29481736">tozzid</a></br>KDA: 1.09</td>
+				<td><a href="http://www.lolking.net/summoner/na/40600313">Trustmeengineer</a></br>KDA: 0.61</td>
+				<td><a href="http://www.lolking.net/summoner/na/25408538">Dont taze me sis</a></br>KDA: 1.07</td>
+				<td><a href="http://www.lolking.net/summoner/na/33320877">Mcbadfish</a></br>KDA: 0.33</td>
+				<td>(0-2)</td>  
 			</tr>
 		</tbody>
 	</table>
