@@ -25,8 +25,8 @@
 </div>
 
 <h2>The teams:</h2>
-<h4>Last Update: Week 1 Day 3</h4>
-<h6>2014-01-15 @ 11:50PM</h6>
+<h4>Last Update: Week 1 Day 4</h4>
+<h6>2014-01-17 @ 12:07AM</h6>
 <div class="table-responsive">
 	<table class="table table-striped">
 		<thead>  
@@ -50,23 +50,23 @@
 				<td><a href="http://www.lolking.net/summoner/na/35743194">shldorc</a></br>KDA: 9.00</td>
 				<td><a href="http://www.lolking.net/summoner/na/21619509">king stein III</a></br>KDA: 4.86</td>
 				<td><a href="http://www.lolking.net/summoner/na/21183965">snapdragonz</a></br>KDA: 7.67</td>
-				<td><a href="http://www.lolking.net/summoner/na/25391940">Beatdylan</a></br>KDA: 2.20</td>
-				<td><a href="http://www.lolking.net/summoner/na/23772630">superflyyyyy</a></br>KDA: 8.00</td>
-				<td>(1-0)</td>  
+				<td><a href="http://www.lolking.net/summoner/na/25391940">Beatdylan</a></br>KDA: 2.81</td>
+				<td><a href="http://www.lolking.net/summoner/na/23772630">superflyyyyy</a></br>KDA: 7.71</td>
+				<td>(2-0)</td>  
 			</tr>	
 			<tr>   
 				<td><h1>1</h1></td>
 				<td><img src="img/cs/fupiltb.png" style="max-height: 100px;"/></td>  
 				<td><h3>Frak the Piltovers [fupilt]</h3></td>  
-				<td><a href="http://www.lolking.net/summoner/na/31533356">WashableCoyote</a></br>KDA: 3.00</br><i>No deaths</i></td>
-				<td><a href="http://www.lolking.net/summoner/na/22217505">AleskiMaciej</a></br>KDA: 3.33</td>
-				<td><a href="http://www.lolking.net/summoner/na/19813093">Pet Troop</a></br>KDA: 13.00</br><i>No deaths</i></td>
-				<td><a href="http://www.lolking.net/summoner/na/20749862">lonelybutter</a></br>KDA: 11.00</td>
-				<td><a href="http://www.lolking.net/summoner/na/21212059">SovietShark</a></br>KDA: 13.00</td>  
-				<td>(1-0)</td>  
+				<td><a href="http://www.lolking.net/summoner/na/31533356">WashableCoyote</a></br>KDA: 5.20</td>
+				<td><a href="http://www.lolking.net/summoner/na/22217505">AleskiMaciej</a></br>KDA: 4.56</td>
+				<td><a href="http://www.lolking.net/summoner/na/19813093">Pet Troop</a></br>KDA: 8.60</td>
+				<td><a href="http://www.lolking.net/summoner/na/20749862">lonelybutter</a></br>KDA: 2.90</td>
+				<td><a href="http://www.lolking.net/summoner/na/21212059">SovietShark</a></br>KDA: 12.00</td>  
+				<td>(2-0)</td>  
 			</tr>	
 			<tr>   
-				<td><h1>1</h1></td>
+				<td><h1>3</h1></td>
 				<td><img src="img/cs/TRU.png" style="max-height: 100px;"/></td>  
 				<td><h3>Suk R Us [SRU]</h3></td>  
 				<td><a href="http://www.lolking.net/summoner/na/19795477">Erilur</a></br>KDA: 4.67</td>
@@ -77,7 +77,7 @@
 				<td>(1-0)</td>  
 			</tr>			
 			<tr>   
-				<td><h1>1</h1></td>
+				<td><h1>3</h1></td>
 				<td><img src="img/cs/SeaLG.jpg" style="max-height: 100px;"/></td>  
 				<td><h3>SeaLG</h3></td>  
 				<td><a href="http://www.lolking.net/summoner/na/26732365">Proseidon</a></br>KDA: 3.00</td>
@@ -88,7 +88,7 @@
 				<td>(1-0)</td>  
 			</tr>	
 			<tr>   
-				<td><h1>2</h1></td>
+				<td><h1>5</h1></td>
 				<td><img src="img/cs/SO.png" style="max-height: 100px;"/></td>  
 				<td><h3>Sicilian Offense [SO]</h3></td>  
 				<td><a href="http://www.lolking.net/summoner/na/40038802">fearmaster93</a></br>KDA: 2.10</td>
@@ -99,7 +99,7 @@
 				<td>(1-1)</td>  
 			</tr>			
 			<tr>  
-				<td><h1>3</h1></td>
+				<td><h1>6</h1></td>
 				<td><img src="img/cs/TWD.jpg" style="max-height: 100px;"/></td>  
 				<td><h3>Texting While Draven [TWD]</h3></td>  
 				<td><a href="http://www.lolking.net/summoner/na/37909089">phantomcash</a></td>
@@ -110,29 +110,29 @@
 				<td>(0-0)</td>  
 			</tr>
 			<tr> 
-				<td><h1>4</h1></td>
+				<td><h1>7</h1></td>
 				<td><img src="img/cs/The Bearded Staggs.png" style="max-height: 100px;"/></td>  
 				<td><h3>The Bearded Staggs [tBS]</h3></td>  
-				<td><a href="http://www.lolking.net/summoner/na/23081317">Noxidile</a></br>KDA: 1.22</td>
-				<td><a href="http://www.lolking.net/summoner/na/20747613">Infernalis</a></br>KDA: 1.72</td>
-				<td><a href="http://www.lolking.net/summoner/na/21237898">GI Pritchard</a></br>KDA: 3.40</td>
-				<td><a href="http://www.lolking.net/summoner/na/32157787">Xxehanort</a></br>KDA: 2.14</td>
-				<td><a href="http://www.lolking.net/summoner/na/42026881">GomerUSMC</a></br>KDA: 1.20</td>
-				<td>(0-1)</td>  
+				<td><a href="http://www.lolking.net/summoner/na/20747613">Infernalis</a></br>KDA: 1.30</td>
+				<td><a href="http://www.lolking.net/summoner/na/23081317">Noxidile</a></br>KDA: 2.00</td>
+				<td><a href="http://www.lolking.net/summoner/na/21237898">GI Pritchard</a></br>KDA: 2.20</td>
+				<td><a href="http://www.lolking.net/summoner/na/32157787">Xxehanort</a></br>KDA: 2.13</td>
+				<td><a href="http://www.lolking.net/summoner/na/42026881">GomerUSMC</a></br>KDA: 1.30</td>
+				<td>(0-2)</td>  
 			</tr>
 			<tr>   
-				<td><h1>4</h1></td>
+				<td><h1>7</h1></td>
 				<td><img src="img/cs/LS.png" style="max-height: 100px;"/></td>  
 				<td><h3>LOLI SMASHER [LS]</h3></td>  
-				<td><a href="http://www.lolking.net/summoner/na/31632441">LGE DABOMB</a></a></br>KDA: 0.43</td>
+				<td><a href="http://www.lolking.net/summoner/na/31632441">LGE DABOMB</a></a></br>KDA: 1.50</td>
 				<td><a href="http://www.lolking.net/summoner/na/31549877">Czar Turtle III</a></a></br>KDA: 0.50</td>
 				<td><a href="http://www.lolking.net/summoner/na/25729678">pandanihao</a></a></br>KDA: N/A</td>
 				<td><a href="http://www.lolking.net/summoner/na/40952157">Quanday3000</a></a></br>KDA: 1.00</td>
-				<td><a href="http://www.lolking.net/summoner/na/27344011">sighted2011</a></a></br>KDA: 3.00</td>
-				<td>(0-1)</td>  
+				<td><a href="http://www.lolking.net/summoner/na/27344011">sighted</a></a></br>KDA: 3.33</td>
+				<td>(0-2)</td>  
 			</tr>
 			<tr>   
-				<td><h1>5</h1></td>
+				<td><h1>7</h1></td>
 				<td><img src="img/cs/NM.png" style="max-height: 100px;"/></td>  
 				<td><h3>New Meta [NM]</h3><p><i>Not following standard Meta positions</i></p></td>  
 				<td><a href="http://www.lolking.net/summoner/na/19966328">CaptainBanHammer</a></br>KDA: 1.00</td>
