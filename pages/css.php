@@ -24,7 +24,9 @@
 	</div>
 </div>
 
-<img src="img/cs/ccs%20w1.png" alt="CCS Week 1"/>
+<h2>Stats Posters:</h2>
+<a href="img/cs/ccs%20w1.png"><img src="img/cs/ccs%20w1.png" alt="CCS Week 1" style="width: 200px;"/></a>
+<h4>Week 1</h4>
 
 <h2>The teams:</h2>
 <h4>Last Update: Week 1 Day 4</h4>
