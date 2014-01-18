@@ -24,6 +24,8 @@
 	</div>
 </div>
 
+<img src="img/cs/ccs%20w1.png" alt="CCS Week 1"/>
+
 <h2>The teams:</h2>
 <h4>Last Update: Week 1 Day 4</h4>
 <h6>2014-01-17 @ 12:07AM</h6>
