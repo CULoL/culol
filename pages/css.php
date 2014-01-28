@@ -57,7 +57,7 @@
 			</tr>	
 			<tr>   
 				<td><h1>1</h1></td>
-				<td><img src="img/cs/fupiltb.png" style="max-height: 100px;"/></td>  
+				<td><img src="img/cs/frakthepiltovers.png" style="max-height: 100px;"/></td>  
 				<td><h3>Frak the Piltovers [fupilt]</h3></td>  
 				<td><h1>(3-0)</h1></td>  
 				<td><a href="http://www.lolking.net/summoner/na/31533356">WashableCoyote</a>,
