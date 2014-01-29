@@ -42,24 +42,12 @@
 				<th>Roster</th>
 			</tr>  
 		</thead>  
-		<tbody>  
-			<tr>   
-				<td><h1>1</h1></td>
-				<td><img src="img/cs/culol.png" style="max-height: 100px;"/></td>  
-				<td><h3>hybrix</h3></td>  
-				<td><h1>(3-0)</h1></td>  
-				<td><a href="http://www.lolking.net/summoner/na/35743194">shldorc</a>,
-					<a href="http://www.lolking.net/summoner/na/21619509">king stein III</a>,
-					<a href="http://www.lolking.net/summoner/na/21183965">snapdragonz</a>, 
-					<a href="http://www.lolking.net/summoner/na/25391940">Beatdylan</a>, and 
-					<a href="http://www.lolking.net/summoner/na/23772630">superflyyyyy</a>
-				</td>
-			</tr>	
+		<tbody>  >	
 			<tr>   
 				<td><h1>1</h1></td>
 				<td><img src="img/cs/frakthepiltovers.png" style="max-height: 100px;"/></td>  
 				<td><h3>Frak the Piltovers [fupilt]</h3></td>  
-				<td><h1>(3-0)</h1></td>  
+				<td><h1>(4-0)</h1></td>  
 				<td><a href="http://www.lolking.net/summoner/na/31533356">WashableCoyote</a>,
 					<a href="http://www.lolking.net/summoner/na/22217505">AleskiMaciej</a>,
 					<a href="http://www.lolking.net/summoner/na/19813093">Pet Troop</a>,
@@ -68,7 +56,7 @@
 				</td>
 			</tr>	
 			<tr>   
-				<td><h1>1</h1></td>
+				<td><h1>2</h1></td>
 				<td><img src="img/cs/TRU.png" style="max-height: 100px;"/></td>  
 				<td><h3>Suk R Us [SRU]</h3></td> 
 				<td><h1>(3-0)</h1></td> 
@@ -80,7 +68,7 @@
 				</td>
 			</tr>			
 			<tr>   
-				<td><h1>4</h1></td>
+				<td><h1>3</h1></td>
 				<td><img src="img/cs/SeaLG.jpg" style="max-height: 100px;"/></td>  
 				<td><h3>SeaLG</h3></td>  
 				<td><h1>(2-0)</h1></td>
@@ -90,7 +78,19 @@
 					<a href="http://www.lolking.net/summoner/na/23372474">iPhone4</a>, and 
 					<a href="http://www.lolking.net/summoner/na/24189959">Sir Westopher</a>
 				</td>
-			</tr>	
+			</tr>
+			<tr>   
+				<td><h1>4</h1></td>
+				<td><img src="img/cs/culol.png" style="max-height: 100px;"/></td>  
+				<td><h3>hybrix</h3></td>  
+				<td><h1>(3-1)</h1></td>  
+				<td><a href="http://www.lolking.net/summoner/na/35743194">shldorc</a>,
+					<a href="http://www.lolking.net/summoner/na/21619509">king stein III</a>,
+					<a href="http://www.lolking.net/summoner/na/21183965">snapdragonz</a>, 
+					<a href="http://www.lolking.net/summoner/na/25391940">Beatdylan</a>, and 
+					<a href="http://www.lolking.net/summoner/na/23772630">superflyyyyy</a>
+				</td>
+			</tr			
 			<tr>   
 				<td><h1>5</h1></td>
 				<td><img src="img/cs/SO.png" style="max-height: 100px;"/></td>  
@@ -115,8 +115,20 @@
 					<a href="http://www.lolking.net/summoner/na/42026881">GomerUSMC</a>
 				</td>
 			</tr>			
-			<tr>  
+			<tr>   
 				<td><h1>7</h1></td>
+				<td><img src="img/cs/NM.png" style="max-height: 100px;"/></td>  
+				<td><h3>New Meta [NM]</h3><p><i>Not following standard Meta positions</i></p></td>  
+				<td><h1>(1-3)</h1></td> 
+				<td><a href="http://www.lolking.net/summoner/na/19966328">CaptainBanHammer</a>, 
+					<a href="http://www.lolking.net/summoner/na/29481736">tozzid</a>, 
+					<a href="http://www.lolking.net/summoner/na/40600313">Trustmeengineer</a>, 
+					<a href="http://www.lolking.net/summoner/na/25408538">Dont taze me sis</a>, and 
+					<a href="http://www.lolking.net/summoner/na/33320877">Mcbadfish</a>
+				</td>
+			</tr>
+			<tr>  
+				<td><h1>8</h1></td>
 				<td><img src="img/cs/TWD.jpg" style="max-height: 100px;"/></td>  
 				<td><h3>Texting While Draven [TWD]</h3></td>  
 				<td><h1>(0-2)</h1></td>
@@ -128,28 +140,16 @@
 				</td>  
 			</tr>
 			<tr>   
-				<td><h1>8</h1></td>
+				<td><h1>9</h1></td>
 				<td><img src="img/cs/LS.png" style="max-height: 100px;"/></td>  
 				<td><h3>LOLI SMASHER [LS]</h3></td>  
-				<td><h1>(0-3)</h1></td> 
+				<td><h1>(0-4)</h1></td> 
 				<td><a href="http://www.lolking.net/summoner/na/31632441">LGE DABOMB</a>, 
 					<a href="http://www.lolking.net/summoner/na/31549877">Czar Turtle III</a>, 
 					<a href="http://www.lolking.net/summoner/na/25729678">pandanihao</a>, 
 					<a href="http://www.lolking.net/summoner/na/40952157">Quanday3000</a>, and 
 					<a href="http://www.lolking.net/summoner/na/27344011">sighted</a>
 				</td> 
-			</tr>
-			<tr>   
-				<td><h1>8</h1></td>
-				<td><img src="img/cs/NM.png" style="max-height: 100px;"/></td>  
-				<td><h3>New Meta [NM]</h3><p><i>Not following standard Meta positions</i></p></td>  
-				<td><h1>(0-3)</h1></td> 
-				<td><a href="http://www.lolking.net/summoner/na/19966328">CaptainBanHammer</a>, 
-					<a href="http://www.lolking.net/summoner/na/29481736">tozzid</a>, 
-					<a href="http://www.lolking.net/summoner/na/40600313">Trustmeengineer</a>, 
-					<a href="http://www.lolking.net/summoner/na/25408538">Dont taze me sis</a>, and 
-					<a href="http://www.lolking.net/summoner/na/33320877">Mcbadfish</a>
-				</td>
 			</tr>
 		</tbody>
 	</table>
